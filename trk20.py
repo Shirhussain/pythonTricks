@@ -99,8 +99,8 @@ for name, age, color in zip(names, ages, fav_color):
 
 #help(list)
 # or you use specific module like os, every documentation comes along 
-#import os 
-#help(os)
+import os 
+help(os)
 
 
 
@@ -108,13 +108,13 @@ for name, age, color in zip(names, ages, fav_color):
 
 # (7) it's Dir function it's good when yo wnna look at sepcific method or function of object 
 
-#z = ""
-#print(dir(z))
+z = ""
+print(dir(z))
 
 # it's very usfull when you import some module like queue 
 
-#import queue 
-#print(dir(queue.Queue))
+import queue 
+print(dir(queue.Queue))
 
 
 
@@ -222,7 +222,7 @@ print(max(a, key=lambda y: y[2]))
 
 # for some fun you can u can use antigravity 
 
-#import antigravity
+import antigravity
 
 
 
