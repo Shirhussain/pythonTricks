@@ -1,4 +1,6 @@
 # if you wanna make environment variable in current directory so do the following 
 python3 -m venv ./venv
 
+# for activating venv in VSCode pres CTR+SHIFT+P  then search for "python:interpreter" then select the env from the list
+
 
