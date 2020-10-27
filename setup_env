@@ -1,0 +1,4 @@
+# if you wanna make environment variable in current directory so do the following 
+python3 -m venv ./venv
+
+
