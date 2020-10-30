@@ -1,9 +1,0 @@
-if you want to post an image on github README.md so you have to first push that image folder to github then by following formola
-you can add:
-<img src="images/filename.png" with="100" hight="10">
-if your filename has space between the name so you can use %20
-<img src="images/filename%20space.png" with="100" hight="10">
-
-or 
-![](images/filename.jpg)
-
