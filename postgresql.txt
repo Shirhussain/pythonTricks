@@ -1,0 +1,3 @@
+for conningting djgno to postgress you have to do the following command 
+pip install psycopg2 
+pip install psycopg2-binary
