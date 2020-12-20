@@ -1,3 +1,4 @@
 docker --version
 sudo systemctl status docker 
 sudo systemctl enable --now docker 
+sudo docker run hello-world
