@@ -12,3 +12,8 @@ with open("timedtext.json") as f:
 
 for d in data["events"]:
     print(d["segs"][0]["utf8"].replace("\n"," "))
+
+ 
+# for dlownloading form youtube you can download by this tricks
+# 1: add `ss` befor youtube.com or add `pwn` 
+# 2: you can use youtube-dl also wihich i highly recommand  
